@@ -74,7 +74,11 @@
 <br/>
 
 #
-
+<p>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/Umair-Ishtiaq/Umair-Ishtiaq/blob/main/Resouces/marquee.svg"><img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/Umair-Ishtiaq/Umair-Ishtiaq/raw/main/Resouces/marquee.svg" style="max-width: 100%;">
+  <img height="120" alt="Follow and keep visiting" width="100%" src="https://github.com/Umair-Ishtiaq/Umair-Ishtiaq/raw/main/Resouces/marquee.svg" style="max-width: 100%;">
+</a>
+</p>
   Connect With Me
   <a target="_blank">
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" height="25px" style="max-width:100%;">
