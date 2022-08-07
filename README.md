@@ -88,7 +88,7 @@
   <br>
   <a href="https://www.instagram.com/umair__raja_/" target="_blank">
     <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/instagram.svg"/></code></a>
-    <a href="https://twitter.com/Umair__Raja_" target="_blank"
+    <a href="https://twitter.com/Umair__Raja_" target="_blank">
     <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/twitter.svg"/></code></a>
     <a href="https://www.facebook.com/umair.raja.7946281" target="_blank">
     <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/facebook.svg"/></code></a>
