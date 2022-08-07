@@ -28,7 +28,7 @@
 
 <p align="center">
   <img src="https://gpvc.arturio.dev/Umair-Ishtiaq" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •  
-<!--   <img alt = "profile views" src="https://komarev.com/ghpvc/?username=Umair-Ishtiaq&style=flat&color=brightgreen"> •    -->
+<img alt = "profile views" src="https://komarev.com/ghpvc/?username=Umair-Ishtiaq&style=flat&color=brightgreen"> •  
   <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/Umair-Ishtiaq?label=Followers&style=social"> •   
   <img src="https://img.shields.io/github/stars/Umair-Ishtiaq?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
 
