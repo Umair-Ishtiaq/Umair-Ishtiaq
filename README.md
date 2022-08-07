@@ -75,9 +75,8 @@
 
 #
 <p>
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/Umair-Ishtiaq/Umair-Ishtiaq/https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtxIbNI7mnANd4r3xBDMcj7hgAfRY0SaLvkqg6BPOpsY6uqhNc1Bf-Iit0BWyREb6H9t8&usqp=CAU">
-  <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/Umair-Ishtiaq/Umair-Ishtiaq/https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtxIbNI7mnANd4r3xBDMcj7hgAfRY0SaLvkqg6BPOpsY6uqhNc1Bf-Iit0BWyREb6H9t8&usqp=CAU" style="max-width: 100%;">
-  <img height="120" alt="Follow and keep visiting" width="100%" src="https://github.com/Umair-Ishtiaq/Umair-Ishtiaq/https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtxIbNI7mnANd4r3xBDMcj7hgAfRY0SaLvkqg6BPOpsY6uqhNc1Bf-Iit0BWyREb6H9t8&usqp=CAU" style="max-width: 100%;">
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/Umair-Ishtiaq/Umair-Ishtiaq/blob/main/Resouces/marquee.svg"><img height="120" alt="Thanks for visiting my" width="100%" src="https://github.com/Umair-Ishtiaq/Umair-Ishtiaq/raw/main/Resouces/marquee.svg" style="max-width: 100%;">
+  <img height="120" alt="Thanks for visiting me" width="100%" src="https://github.com/Umair-Ishtiaq/Umair-Ishtiaq/raw/main/Resouces/marquee.svg" style="max-width: 100%;">
 </a>
 </p>
   Connect With Me
