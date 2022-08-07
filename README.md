@@ -75,8 +75,8 @@
 
 #
 <p>
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/Umair-Ishtiaq/Umair-Ishtiaq/blob/main/Resouces/marquee.svg"><img height="120" alt="Thanks for visiting my" width="100%" src="https://github.com/Umair-Ishtiaq/Umair-Ishtiaq/raw/main/Resouces/marquee.svg" style="max-width: 100%;">
-  <img height="120" alt="Thanks for visiting me" width="100%" src="https://github.com/Umair-Ishtiaq/Umair-Ishtiaq/raw/main/Resouces/marquee.svg" style="max-width: 100%;">
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/imharris24/imharris24/blob/main/Resouces/marquee.svg"><img height="120" alt="Thanks for visiting me" width="100%" src="https://github.com/imharris24/imharris24/raw/main/Resouces/marquee.svg" style="max-width: 100%;">
+  <img height="120" alt="Thanks for visiting me" width="100%" src="https://github.com/imharris24/imharris24/raw/main/Resouces/marquee.svg" style="max-width: 100%;">
 </a>
 </p>
   Connect With Me
