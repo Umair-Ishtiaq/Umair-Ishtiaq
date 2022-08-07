@@ -73,31 +73,11 @@
 <!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch -->
 <br/>
 
-<svg class="js-activity-overview-graph mx-auto d-block" xmlns="http://www.w3.org/2000/svg" width="285" height="261">
-      <g transform="translate(-18.25, -38.650001525878906)">
-        <path class="js-highlight-blob" stroke-linejoin="round" fill="#40c463" stroke="#40c463" opacity="0.5" stroke-width="7" d="M169.5,165.74285732969946 L216.22142604905733,169.5 L169.5,206.82856937330598 L81.45000457763672,169.5 z"></path>
-        <line stroke-width="2" stroke-linecap="round" class="js-highlight-x-axis activity-overview-axis" x1="77.45000457763672" y1="169.5" x2="261.5499954223633" y2="169.5"></line>
-        <line stroke-width="2" stroke-linecap="round" class="js-highlight-y-axis activity-overview-axis" x1="169.5" y1="77.45000457763672" x2="169.5" y2="261.5499954223633"></line>
-        <ellipse class="activity-overview-point js-highlight-top-ellipse" rx="3" ry="3" stroke-width="2" fill="white" cx="169.5" cy="163.74285732969946"></ellipse>
-        <ellipse class="activity-overview-point js-highlight-right-ellipse" rx="3" ry="3" stroke-width="2" fill="white" cx="218.22142604905733" cy="169.5"></ellipse>
-        <ellipse class="activity-overview-point js-highlight-bottom-ellipse" rx="3" ry="3" stroke-width="2" fill="white" cx="169.5" cy="208.82856937330598"></ellipse>
-        <ellipse class="activity-overview-point js-highlight-left-ellipse" rx="3" ry="3" stroke-width="2" fill="white" cx="79.45000457763672" cy="169.5"></ellipse>
-        <text text-anchor="middle" class="activity-overview-percentage js-highlight-percent-top" dx="169.5" dy="51.45000457763672">2%</text>
-        <text text-anchor="middle" class="text-small activity-overview-label js-highlight-label-top" dx="169.5" dy="67.45000457763672">Code review</text>
-        <text text-anchor="start" class="activity-overview-percentage js-highlight-percent-right" dy="168" dx="275.649995803833">27%</text>
-        <text text-anchor="start" class="text-small activity-overview-label js-highlight-label-right" dy="184" dx="271.5499954223633">Issues</text>
-        <text text-anchor="middle" class="activity-overview-percentage js-highlight-percent-bottom" dx="169.5" dy="279.5499954223633">22%</text>
-        <text text-anchor="middle" class="text-small activity-overview-label js-highlight-label-bottom" dx="169.5" dy="295.5499954223633">Pull requests</text>
-        <text text-anchor="end" class="activity-overview-percentage js-highlight-percent-left" dy="168" dx="53.91875457763672">49%</text>
-        <text text-anchor="end" class="text-small activity-overview-label js-highlight-label-left" dy="184" dx="65.45000457763672">Commits</text>
-      </g>
-    </svg>
 #
 <p>
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/imharris24/imharris24/blob/main/Resouces/marquee.svg"><img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/imharris24/imharris24/raw/main/Resouces/marquee.svg" style="max-width: 100%;">
 </a>
 </p>
-
   Connect With Me
   <a target="_blank">
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" height="25px" style="max-width:100%;">
