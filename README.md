@@ -12,7 +12,7 @@
 <br/>
 <br/>
 <a target="_blank">
-  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/image.gif">
+  <img align="right" height="250" width="400" alt="GIF" src="https://tenor.com/view/pixels-neon-old-80s-hacker-gif-21156226">
 </a>
 
 - 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 a **Computer Science Student** at Capital University of Science and Technology.
