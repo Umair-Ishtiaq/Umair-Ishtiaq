@@ -13,8 +13,7 @@
 <!--Typing SVG-->
 </a>
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=CS+Student;C%2B%2B+expert;Full+stack+developer;Web+Developer;Learning+new+Skills+everyday+" alt="Typing SVG" /></a>
-</div>
+  <a href="https://github.com/Umair-Ishtiaq"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=100&background=003EFF00&center=true&vCenter=true&width=435&lines=CS+Student;Full+Stack+Developer;C%2B%2B+expert;Lerner" alt="Typing SVG" /></a></div>
 - 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 a **Computer Science Student** at Capital University of Science and Technology.
 - 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **Projects**
 - 🤔 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚏𝚘𝚛 𝚑𝚎𝚕𝚙 𝚠𝚒𝚝𝚑 **𝙸𝚗𝚝𝚎𝚛𝚗𝚜𝚑𝚒𝚙𝚜**
