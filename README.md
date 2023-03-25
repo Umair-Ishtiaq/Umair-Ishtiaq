@@ -1,3 +1,4 @@
+<!--Header-->
 <!-- reference = https://github.com/leviarista/github-profile-header-generator
 -->
 <div align="center" width="50">
@@ -7,10 +8,9 @@
   </div>
 
 <hr>
+  <br/>
 
-<a target="_blank">
-  <img align="center" height="400" alt="GIF" src="https://github.com/Umair-Ishtiaq/Umair-Ishtiaq/blob/main/image/GIF.gif">
-<br/>
+<!--Typing SVG-->
 </a>
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=CS+Student;C%2B%2B+expert;Full+stack+developer;Web+Developer;Learning+new+Skills+everyday+" alt="Typing SVG" /></a>
@@ -26,16 +26,18 @@
   <p align="center">
     
     <!--profile views-->
-    <img src="https://gpvc.arturio.dev/Umair-Ishtiaq" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •  
+  <a href="https://github.com/Umair-Ishtiaq">
+    <img src="https://gpvc.arturio.dev/Umair-Ishtiaq" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜">
+  </a>
     
     <!--Followers-->
-
+  <a href="https://github.com/Umair-Ishtiaq">
     <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/Umair-Ishtiaq?style=social"> 
-    
+  </a>
     <!--Stars-->
-   
+  <a href="https://github.com/Umair-Ishtiaq">
     <img src="https://img.shields.io/github/stars/Umair-Ishtiaq?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
-  
+  </a>
 </div>
 
 
