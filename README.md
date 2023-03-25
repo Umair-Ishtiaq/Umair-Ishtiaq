@@ -22,22 +22,23 @@
 - 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜**
 - ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **𝙱𝚎𝚜𝚝 𝙿𝚊𝚛𝚝 𝙾𝚏 𝚃𝚑𝚎 𝙹𝚘𝚞𝚛𝚗𝚎𝚢 𝙸𝚜 : *𝙸𝚝 𝙴𝚗𝚍𝚜***
 
-<div><br><br>
-  <p align="center">
-    
-    <!--profile views-->
+<br><br>
+
+<div align="center">
+  
+  <!--𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜-->
   <a href="https://github.com/Umair-Ishtiaq">
     <img src="https://gpvc.arturio.dev/Umair-Ishtiaq" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜">
   </a>
+      <!--Followers-->
+      <a href="https://github.com/Umair-Ishtiaq">
+        <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/Umair-Ishtiaq?style=social"> 
+      </a>
+        <!--Stars-->
+      <a href="https://github.com/Umair-Ishtiaq">
+        <img src="https://img.shields.io/github/stars/Umair-Ishtiaq?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
+      </a>
     
-    <!--Followers-->
-  <a href="https://github.com/Umair-Ishtiaq">
-    <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/Umair-Ishtiaq?style=social"> 
-  </a>
-    <!--Stars-->
-  <a href="https://github.com/Umair-Ishtiaq">
-    <img src="https://img.shields.io/github/stars/Umair-Ishtiaq?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
-  </a>
 </div>
 
 
