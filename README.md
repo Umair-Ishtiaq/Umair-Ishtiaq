@@ -42,7 +42,9 @@
 
 <hr/>
 <div>
-  <a href="https://github.com/Umair-Ishtiaq"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&center=true&vCenter=true&width=435&lines=Streaks+%26+Trophies" alt="Typing SVG" /></a>
+  <p align="center">
+    <a href="https://github.com/Umair-Ishtiaq"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&center=true&vCenter=true&width=435&lines=Streaks+%26+Trophies" alt="Typing SVG" /></a>
+  </p>
 </div>
 
 <div>
