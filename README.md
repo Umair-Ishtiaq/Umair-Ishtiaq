@@ -1,6 +1,6 @@
 <!-- reference = https://github.com/leviarista/github-profile-header-generator
 -->
-<div align="center">
+<div align="center" width="50">
     <a href="https://github.com/Umair-Ishtiaq">
       <img src="https://github.com/Umair-Ishtiaq/Umair-Ishtiaq/blob/main/image/github-header-image.png">
     </a>
@@ -30,7 +30,7 @@
     
     <!--Followers-->
 
-    <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/Umair-Ishtiaq?label=Followers&style=social"> 
+    <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/Umair-Ishtiaq?style=social"> 
     
     <!--Stars-->
    
