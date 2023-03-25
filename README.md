@@ -1,15 +1,7 @@
-### Hi there 👋
 <h1 align="center">
-  <a target="_blank">
-    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;">
-  </a>
-  𝐇𝐞𝐥𝐥𝐨, I am &lt;Umair-Ishtiaq/&gt;!
-  <a target="_blank">
-    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" />
-  </a>
+    <header></header>
 </h1>
 
-<br/>
 <br/>
 <a target="_blank">
   <img align="right" height="250" width="400" alt="GIF" src="https://c.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif">
@@ -28,14 +20,9 @@
 
 <p align="center">
   <img src="https://gpvc.arturio.dev/Umair-Ishtiaq" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •  
-<img alt = "profile views" src="https://komarev.com/ghpvc/?username=Umair-Ishtiaq&style=flat&color=brightgreen"> •  
   <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/Umair-Ishtiaq?label=Followers&style=social"> •   
   <img src="https://img.shields.io/github/stars/Umair-Ishtiaq?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
 
-
-#
-
-[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=Umair-Ishtiaq&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/Umair-Ishtiaq)
 
 <p align="center">
   <a>
@@ -47,7 +34,6 @@
 
 <br/>
 
-#
 
 <details open="">
 <summary>
@@ -67,16 +53,10 @@
 </details>
 <br>
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Umair-Ishtiaq&theme=react-dark&hide_border=true&area=true)
-
-<!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch-->
-<!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch -->
 <br/>
 
-#
 <p>
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/imharris24/imharris24/blob/main/Resouces/marquee.svg"><img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/imharris24/imharris24/raw/main/Resouces/marquee.svg" style="max-width: 100%;">
-</a>
+<a target="_blank" rel="noopener noreferrer" </a>
 </p>
   Connect With Me
   <a target="_blank">
@@ -103,5 +83,3 @@
 ### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
 
 </div>
-
-#
