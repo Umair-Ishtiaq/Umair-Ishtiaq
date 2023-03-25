@@ -40,14 +40,29 @@
     
 </div>
 
+<hr/>
+<div>
+  <a href="https://github.com/Umair-Ishtiaq"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&center=true&vCenter=true&width=435&lines=Streaks+%26+Trophies" alt="Typing SVG" /></a>
+</div>
 
+<div>
 
-<p align="center">
-  <a>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Umair-Ishtiaq&theme=dark&hide_border=true"/>
+<!--Streaks-->
+  <p align="center">
+    <a>
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Umair-Ishtiaq&theme=dark&hide_border=true"/>
+    </a>
+  </p>
+  
+  <!--Trophies-->
+  <p align="center">
+    <a>
+      <img align="center" src="https://github-profile-trophy.vercel.app/?username=Umair-Ishtiaq&theme=onestar&no-frame=true&no-bg=true"/>
+    </a>
+  </p>
+</div>
+<hr/>
 
-  </a>
-</p>
 
 
 <br/>
