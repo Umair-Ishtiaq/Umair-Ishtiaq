@@ -13,7 +13,7 @@
 <!--Typing SVG-->
 </a>
 <div align="center">
-  <a href="https://github.com/Umair-Ishtiaq"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=100&background=003EFF00&center=true&vCenter=true&width=435&lines=CS+Student;Full+Stack+Developer;C%2B%2B+expert;Lerner" alt="Typing SVG" /></a></div>
+  <a href="https://github.com/Umair-Ishtiaq"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=200&center=true&vCenter=true&width=435&lines=Computer+Scientist+;Web+Developer;Programmer" alt="Typing SVG" /></a></div>
 - 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 a **Computer Science Student** at Capital University of Science and Technology.
 - 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **Projects**
 - 🤔 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚏𝚘𝚛 𝚑𝚎𝚕𝚙 𝚠𝚒𝚝𝚑 **𝙸𝚗𝚝𝚎𝚛𝚗𝚜𝚑𝚒𝚙𝚜**
@@ -27,7 +27,6 @@
   
   <!--𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜-->
   <a href="https://github.com/Umair-Ishtiaq">
-    <img src="https://gpvc.arturio.dev/Umair-Ishtiaq" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜">
   </a>
       <!--Followers-->
       <a href="https://github.com/Umair-Ishtiaq">
@@ -88,8 +87,22 @@
 </details>
 <br>
 
-<br/>
-
+<hr/>
+<br>
+<div align="center">
+    <a href="https://github.com/Umair-Ishtiaq">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=430&lines=Skill+set" alt="Typing SVG" />
+    </a>
+</div>
+<!-- tech stack -->
+<!-- reference = https://github.com/tandpfun/skill-icons -->
+<div align="center">
+    <a href="https://github.com/Umair-Ishtiaq">
+      <img src="https://skillicons.dev/icons?i=c,py,java,html,css,java,js,mysql,linux,github,visualstudio,vscode,bootstrap,angular,jquery,linkedin,cs,r,java&perline=7" />
+    </a>
+</div>
+<br>
+<hr>  
 <p>
 <a target="_blank" rel="noopener noreferrer" </a>
 </p>
