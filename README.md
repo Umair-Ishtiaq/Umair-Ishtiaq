@@ -98,7 +98,7 @@
 <!-- reference = https://github.com/tandpfun/skill-icons -->
 <div align="center">
     <a href="https://github.com/Umair-Ishtiaq">
-      <img src="https://skillicons.dev/icons?i=c,c++,py,java,html,css,java,js,mysql,linux,github,visualstudio,vscode,bootstrap,angular,jquery,linkedin,cs,r,java&perline=7" />
+      <img src="https://skillicons.dev/icons?i=c,cplusplus,py,java,html,css,java,js,mysql,linux,github,visualstudio,vscode,bootstrap,angular,jquery,linkedin,cs,r,java&perline=7" />
     </a>
 </div>
 <br>
