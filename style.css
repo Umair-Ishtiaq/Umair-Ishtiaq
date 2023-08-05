@@ -254,12 +254,19 @@ body{
     .div3h {
       font-size: 60px;
     }
+    #ringup{
+        height: 20%;
+    }
   }
   
   @media (max-width: 576px) {
     .div1h {
       font-size: 50px;
     }
+    #ringup{
+        height: 15%;
+    }
+
     #div1p {
       font-size: 14px;
     }
