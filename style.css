@@ -257,6 +257,15 @@ body{
     #ringup{
         height: 20%;
     }
+          #rings{
+        height: 65%;
+    }
+    
+    #me{
+        height: 75%;
+        position: absolute;
+    }
+
   }
   
   @media (max-width: 576px) {
@@ -266,7 +275,14 @@ body{
     #ringup{
         height: 15%;
     }
-
+    #rings{
+        height: 65%;
+    }
+    
+    #me{
+        height: 76%;
+        position: absolute;
+    }
     #div1p {
       font-size: 14px;
     }
